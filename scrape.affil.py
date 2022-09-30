@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import sys
 
+c = 1
 for line in sys.stdin:
   line = line.rstrip("\n")
   author, url = line.split("\t")
@@ -18,7 +19,9 @@ for line in sys.stdin:
   author_affil = soup.find_all('div', class_='gsc_prf_il')
   for af in author_affil:
     aft = af.get_text()
-    print(f"{author}\t{aft}")
+    print(f"{c}\t{author}\t{aft}")
+    print(f"{c}\t{author}\t{aft}", file=sys.stderr)
+    c += 1
     break
 
     time.sleep(5)
