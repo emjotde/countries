@@ -1,0 +1,406 @@
+AA Elsayed	Assistant Professor of Computer Science, Faculty of Science, Alexandria University
+A Alrajeh	KACST
+A Alvarez	Senior Researcher in Speech Technologies, Vicomtech
+A Amarnath	IBM Research
+A Anastasopoulos	Assistant Professor, George Mason University
+A Asai	University of Washington
+A Baevski	Facebook AI Research
+A Berro	LIRIS - Université Claude Bernard Lyon 1
+A Branco	University of Lisbon, Faculty of Sciences, Department of Informatics
+AD McCarthy	Johns Hopkins University
+A Eriguchi	Researcher at Microsoft
+AF Aji	Amazon
+A Fan	Facebook AI Research, LORIA
+A Fraser	Center for Information and Language Processing, University of Munich (LMU)
+AFT Martins	Carnegie Mellon University and Instituto Superior Tecnico
+A Fujita	Senior Researcher, National Institute of Information and Communications Technology (NICT), Japan
+A Góis	PhD student — Mila / University of Montreal
+A Han	腾讯（北京）
+A Idrissi-Yaghir	Unknown affiliation
+A Jones	Student, Dartmouth College
+AJ Yepes	School of Computing Technologies, RMIT University
+A Karakanta	Fondazione Bruno Kessler (FBK) / University of Trento
+AK Ojha	University of Galway
+A Kunchukuttan	Microsoft Translator
+A Lopes	Universidad de La Serena
+A Mishra	ML Scientist, Apple Inc.
+A Moschitti	Principal Scientist at Amazon Alexa
+A Mosquera	Broadcom
+A Moudgil	Mila, Concordia University
+A Nagesh	Staff Research Scientist, DiDi AI Labs
+A Névéol	CNRS
+A Oliver	Universitat Oberta de Catalunya
+A Oncevay	University of Edinburgh
+AP Azad	Senior Research Scientist, IBM Research Lab
+A Poncelas	DCU
+A Raganato	University of Milano-Bicocca
+A Ramesh	MS in Computing ( Research area - Machine Translation)
+A Ravichander	Carnegie Mellon University
+A Rios	Postdoc, University of Zurich
+A Rouhe	PhD Student, Aalto University
+A Salimbajevs	Researcher, Latvian University and Tilde
+A Severyn	Google
+A Shankhdhar	Undergraduate Student, IIT Guwahati
+AS Rotaru	Data Scientist - Arthur D. Little
+A Suri	PhD Candidate, University of Virginia
+A Talman	Doctoral Researcher, University of Helsinki
+A Tawfik	Microsoft
+A Toral	Assistant Professor, University of Groningen
+AV Hujon	St. Anthony's College, Shillong
+AV Lopes	Unbabel/INESC-ID
+AVM Barone	the University of Edinburgh
+A Wahid	Maulana Azad National Urdu University (A Central University), Hyderabad
+A Way	ADAPT Centre, Dublin City University
+B Benatallah	DCU, Dublin
+B Ding	Nanyang Technological University, Alibaba Group DAMO Academy
+B Haddow	University of Edinburgh
+B Hu	Tencent
+B Huet	Median Technologies
+B Li	Alibaba
+B Marie	4i
+B Minhas	Student, IIT Guwahati
+B Thompson	Amazon
+BY Lin	University of Southern California
+B Zhang	DiDi Labs
+CA Iglesias	Universidad Politécnica de Madrid
+C Bhagavatula	Allen Institute for Artificial Intelligence
+CC Leung	Singapore R&D Centre, Alibaba Inc.
+C Federmann	Principal Research Manager, Microsoft Translator
+C Gómez-Rodríguez	Universidade da Coruña, CITIC
+C Gong	University of Texas at Austin
+C Grozea	Researcher, Fraunhofer Institute FOKUS
+C Hardmeier	Associate Professor, IT University of Copenhagen/Uppsala University
+C Hokamp	Senior Research Scientist at AYLIEN
+C Kedzie	Senior Researcher, Microsoft Semantic Machines
+CM Hokamp	Senior Research Scientist at AYLIEN
+C Napoles	Grammarly
+C Oravecz	European Commission, Directorate-General for Translation
+C Quirk	Researcher, Microsoft Research
+D Alves	Researcher, Faculty of Humanities and Social Sciences, University of Zagreb
+D Batra	Georgia Tech and Facebook AI Research
+D Emelin	PhD Student, ILCC, School of Informatics, The University of Edinburgh
+DF Wong	Associate Professor, Department of Computer and Information Science, University of Macau
+D Macháček	Charles University
+D Munkova	Dasa Klocokova
+D Parikh	Georgia Tech, Facebook AI Research
+D Ruiter	PhD student, Saarland University
+D Shterionov	Tilburg University
+D Torregrosa	Postdoctoral researcher in Insight Centre for Data Analytics / Data Science Institute
+DT Wijaya	Boston University
+D Variš	research assistant, Charles University, Institute of Formal and Applied Linguistics
+D Wan	University of North Carolina Chapel Hill
+D Wang	Research Scientist@Rakuten
+D Wei	Engineer, 2012 Lab, Huawei Co. LTD
+D Xiong	Professor, College of Intelligence and Computing, Tianjin University, China
+E Bektaş	TÜBİTAK
+E Choi	The University of Texas at Austin
+E Lapshinova-Koltunski	Saarland University
+E Liscio	PhD researcher at TU Delft
+E Malmi	Research Scientist, Google Zürich
+E Matusov	AppTek
+EM Ponti	University of Edinburgh / University of Cambridge
+E Pettersson	postdoc in computational linguistics, Uppsala University
+E Razumovskaia	University of Cambridge
+E Sumita	NICT (National Institute of Information and Communications Technology)
+E Svoboda	Computational linguist, Charles University
+E Turcan	Graduate Student, Department of Computer Science, Columbia University
+E Zotova	Researcher at Vicomtech & University of the Basque Country
+F Bougares	Associate Professor, University of Le Mans
+F Carlsson	Researcher, Research Institutes of Sweden
+F Casacuberta	Professor of Computer Science, PRHLT, Polytechnic University of Valencia
+F do Carmo	Senior Lecturer, Centre for Translation Studies, University of Surrey
+F Ginter	University of Turku
+F Metze	Carnegie Mellon University; FACEBOOK
+F Sadat	Université du Québec à Montréal (UQAM)
+F Saleh	Oracle
+F Sánchez‐Martínez	Associate Professor, Dept. of Software and Computing Systems, Universitat d'Alacant (Spain)
+G Bingham	Ph.D. Candidate at The University of Texas at Austin
+G Campagna	Unknown affiliation
+G Hacohen	PhD student, Hebrew University of Jerusalem
+G Haffari	Professor, DSAI Dept, Monash University
+G He	TU Delft
+GM Buy Wenniger	Postdoctoral Researcher, University of Groningen
+GM Correia	Instituto de Telecomunicações
+G Minnema	PhD student, University of Groningen
+GM Rosa	Unicamp
+G Ramírez‐Sánchez	CEO at Prompsit Language Engineering, computational linguist
+G Rehm	Principal Researcher and Research Fellow, DFKI GmbH
+G Rigau	Deputy Director of HiTZ, IXA Research Group, Associate professor, University of the Basque Country
+G Tang	Researcher at Uppsala University
+G Xie	Dublin City University
+HA Khojasteh	Charles University, Prague, Czech Republic
+HA Wibowo	AI Researcher
+H Chen	DAMO Academy, Alibaba Group Singapore R&D (阿里巴巴达摩院新加坡研发中心)
+H Haagsma	University of Groningen
+H Hassan	Microsoft Research
+H Hoang	Microsoft
+H Kaing	National Institute of Information and Communications Technology (NICT)
+H Khayrallah	Microsoft
+H Pedrini	Institute of Computing, University of Campinas
+H Purohit	Associate Professor, Information Sciences & Technology, George Mason University
+H Schmid	Associate Professor, Ludwig-Maximilians-Universität München
+H Shang	Unknown affiliation
+H Shi	Peking University; Carnegie Mellon University; Amazon
+H Sun	JD AI Research
+H Yu	Staff Engineer, Alibaba DAMO Academy
+H Zhao	Shanghai Jiao Tong University
+I Calixto	Assistant Professor, AUMC, University of Amsterdam
+I Campiotti	Unicamp
+ID El-Kahlout	TRT
+I Titov	University of Edinburgh / University of Amsterdam
+I Vulić	Senior Research Associate, University of Cambridge & PolyAI
+J Alabi	Saarland University
+JA Pérez-Ortiz	Lecturer and researcher, Universitat d'Alacant, Spain
+J Bos	Professor of Computational Semantics, University of Groningen
+J Camacho-Collados	Cardiff University
+J Du	School of Biomedical Informatics, UTHealth
+J Glover	Machine Learning Scientist at 3M
+J Gracia	University of Zaragoza
+J Gwinnup	Research Computer Scientist, Air Force Research Laboratory; D. Eng. Student Johns Hopkins University
+J He	Carnegie Mellon University
+J Helcl	Charles University
+J Jiang	Phd student of CS, Renmin University of China
+J Jon	Charles University
+JJ Ouyang	Assistant Professor, University of Texas at Dallas
+J Kanerva	Department of Computing, University of Turku
+J Kasai	University of Washington
+J Krishnan	Meta AI
+J Laaksonen	Senior University Lecturer in Computer Science, Aalto University
+J Libovický	Charles University
+J Li	Ph.D. student, Universite de Montreal, Renmin University of China
+JM Crego	Head of Research at SYSTRAN
+J Moorkens	Associate Professor, Dublin City University
+J Nakatumba-Nabende	Makerere University
+J Nivre	Senior Researcher, RISE; Professor of Computational Linguistics, Uppsala University
+J Ouyang	Assistant Professor, University of Texas at Dallas
+JP Aires	Pontifical Catholic University of Rio Grande do Sul
+J Phang	New York University
+J Rosendahl	RWTH Aachen University
+J Senellart	Quandela
+J Silva	University of Lisbon
+J Tetreault	Dataminr
+J Tiedemann	Professor of Language Technology, University of Helsinki
+J von Kügelgen	Max Planck Institute for Intelligent Systems Tübingen & University of Cambridge
+J Wagner	ADAPT Centre, NCLT, School of Computing, Dublin City University
+K Chen	Harbin Institute of Technolgy (Shenzhen)
+KD Chowdhury	Saarland University, Saarland Informatics Campus
+K Duh	Johns Hopkins University
+K Fan	Unknown affiliation
+K Heafield	Reader, University of Edinburgh
+K Jassem	Adam Mickiewicz University
+K Knight	DiDi Labs
+K Marasek	Polish-Japanese Institute of Information Technology
+K McKeown	Professor of Computer Science and Director, Data Science Institute, Columbia University
+K Sarasola	University of the Basque Country
+K Song	Staff Engineer at DAMO Academy, Alibaba Group
+K Wang	Soochow University; Microsoft
+K Wolk	Wołk.AI
+K Yang	UC Berkeley
+L Abzianidze	Utrecht University
+L Barrault	Research Scientist, Meta AI
+Ľ Benko	Katedra informatiky Univerzita Konštantína Filozofa v Nitre
+L Bing	Alibaba DAMO, Tencent, CMU, CUHK
+Ł Borchmann	Snowflake
+L Choshen	IBM AI research, Hebrew University of Jerusalem
+LC Siebert	Assistant professor, TU Delft
+L Edman	University of Groningen
+LH Bonifacio	Unicamp
+L Liu	Nanyang Technological University
+L Pavanelli	M.S. in Computer Science, PUC-Rio | aiXplain
+LR de Souza	State University of Campinas
+LS Chao	Unknown affiliation
+L Schwartz	Assistant Professor, University of Illinois at Urbana-Champaign
+L Si	Alibaba Group Inc, Purdue Univ, Carnegie Mellon Univ
+L Specia	Professor, Imperial College London and University of Sheffield
+L Stankevičius	Doctoral student
+L Tan	Universität des Saarlandes, Nanyang Technological University
+L Wang	Institute of Surface Science and Corrosion,  WW4-LKO, University of Erlangen-Nuremberg
+MA Farajian	Unbabel
+M Al-Badrashiny	Columbia University
+MAYZ Fard	University of New South Wales
+M Baez	Bielefeld University of Applied Sciences
+M Bañón	Prompsit Language Engineering
+M Behnke	University of Edinburgh
+M Bollmann	Jönköping University, Sweden
+M Briers	Alan Turing Institute
+M Chochowski	NVIDIA, previously Samsung R&D Poland
+M Dehouck	Inria Lille
+M Deligiannis	Institute for Language and Speech Processing
+M Dočekal	Brno University of Technology
+M Fajčík	PhD Student / Researcher, Brno University of Technology
+M Hasanuzzaman	ADAPT Centre, Munster Technological University, Ireland
+M Huck	SAP SE
+M Ihsan	Cholistan Institute of Desert Studies, the Islamia University of Bahawalpur, Pakistan
+M Junczys-Dowmunt	Microsoft
+M Koponen	University of Eastern Finland
+M Krubiński	Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+M Kurimo	Professor in Speech and Language Processing, Aalto University, Finland
+ML Forcada	Professor of Computer Languages and Systems, Universitat d'Alacant
+M Lukoševičius	Kaunas University of Technology
+MMI Alam	George Mason University
+M Moradshahi	Computer Science Department, Stanford University
+M Müller	Department of Computational Linguistics, University of Zurich
+M Munk	Constantine the Philosopher University in Nitra
+M Nădejde	Amazon AWS AI
+M Negri	Fondazione Bruno Kessler - FBK-irst, Trento, Italy
+M Neves	German Federal Institute for Risk Assessment
+M Novák	post-doc, Charles University, Prague
+M Ott	Character AI
+M Pietruszka	Jagiellonian University, applica.ai
+M Pinnis	Tilde
+M Popel	Institute of Formal and Applied Linguistics, Charles University in Prague
+M Popovic	ADAPT Centre @ Dublin City University
+M Popović	ADAPT Centre @ Dublin City University
+MQ Pham	Zoom Video Communications
+MR Costa-Jussa	Universitat Politècnica de Catalunya
+M Rezagholizade	Staff Research Scientist, Noah's Ark Lab, Huawei Technologies
+M Rikters	Postdoctoral Researcher at The University of Tokyo
+M Ryskina	Carnegie Mellon University
+M Sahlgren	AI Sweden
+M Ševčíková	Univerzita Karlova v Praze, Matematicko-fyzikální fakulta, Ústav formální a aplikované lingvistiky
+M Simard	National Research Council Canada (NRC)
+M Sun	Professor of Computer Science and Technology, Tsinghua University
+MT van der Meer	PhD student, Leiden University
+M Utiyama	NICT
+M van der Meer	PhD student, Leiden University
+MY Li	National University of Singapore
+M Žilinec	Unknown affiliation
+N Bach	Microsoft
+N Bogoychev	Postdoc at University of Edinburgh
+N De Cao	PhD at University of Amsterdam and The University of Edinburgh
+N Moghe	Student, University of Edinburgh
+N Rossenbach	Ph.D. Student in Computer Science at RWTH Aachen
+NW Pierse	Microsoft
+O Araque	Assistant Professor at Universidad Politécnica de Madrid
+O Bojar	Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+O Caglayan	Imperial College London
+O Htun	Research Scientist, Rakuten Institute of Technology
+O Majewska	University of Cambridge
+P Bahar	RWTH Aachen University
+P Bell	University of Edinburgh
+P Chen	PhD student, University of Edinburgh
+P Jain	University of Edinburgh
+P Koehn	Professor, Johns Hopkins University
+PM Htut	AWS AI
+P Pakray	National Institute of Technology Silchar India
+P Pecina	Charles University
+P Przybysz	SRPOL
+P Rani	National University of Ireland
+P West	University of Washington
+P Wilken	Machine Translation Scientist, Apptek
+Q Chen	NCBI-NLM, National Institutes of Health
+Q Liu	Noah's Ark Lab, Huawei
+R Agerri	HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+R Bawden	Inria
+R Chatterjee	Apple Inc
+R Dabre	NICT, Japan
+R Grundkiewicz	Microsoft Research
+R Haque	School of Computing, National College of Ireland
+R Islamaj	National Center for Biotechnology Information, National Library of Medicine, National Institutes of
+R Kejriwal	Data and Applied Scientist, Microsoft India
+R Knowles	Research Associate, National Research Council Canada
+R Krislauks	Tilde
+R Krišlauks	Tilde
+RL Bras	Allen Institute for Artificial Intelligence
+R Leaman	Researcher, NCBI/NLM/NIH
+R Lim	Naval Air Warfare Center Weapons Division
+R Lotufo	Adjunct Professor at Faculty of E&CE, Unicamp, CTO @ NeuralMind
+R Nogueira	UNICAMP
+R Rubino	NICT
+R Santos	University of Lisbon
+R Sennrich	University of Zurich
+R Sudarikov	Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University
+R van Noord	Postdoc in the MaCoCu project, University of Groningen
+R Vázquez	PhD candidate Language Technology, University of Helsinki
+R Wang	Associate Professor of Computer Science, Shanghai Jiao Tong University
+R Zellers	OpenAI
+R Zhang	Assistant Professor, Penn State University
+SAB Andrabi	Assistant Professor Computer Science Engineering, Chandigarh University
+SA Grönroos	AI Scientist, Silo.AI
+S Alvarez	Adjunct Professor, Universitat Oberta de Catalunya
+SA Mohamed	Postgraduate Student
+S Bandyopadhyay	Director and Professor of Computer Science and Engineering, NIT Silchar
+S Bird	Professor, Charles Darwin University
+S Dalmia	Carnegie Mellon University
+S Dutta	Doctoral Researcher, TU Kaiserslautern
+S Edunov	Facebook AI Research
+S Feng	University of Michigan, Ann Arbor
+S Gross	Facebook AI Research
+S Guha	Research Engineer, University of Amsterdam
+S Joty	Research Director at Salesforce AI Research, Associate Professor at NTU (on leave)
+SJ Semnani	PhD Student, Stanford University
+S Kim	University of Michigan, Ann Arbor
+S Kok	National University of Singapore
+S Kumar	Carnegie Mellon University
+S Loáiciga	University of Gothenburg
+S Maruf	Monash University
+S Pal	IBM Research
+SR Laskar	Research Scholar
+S Rosset	Université Paris-Saclay, CNRS, LISN
+S Ruder	Research Scientist, Google
+S Saleh	Applied Data Scientist at Microsoft
+S Sofianopoulos	Researcher at Institute for Language and Speech Processing (ILSP / "Athena" R.C.)
+S Tchistiakova	The University of Edinburgh
+S Thottingal	Wikimedia Foundation, Swathanthra Malayalam Computing
+S Wang	Tsinghua University
+S Xu	Stanford University
+S Zhang	University of Texas at Austin
+T Bergmanis	Tilde, University of Latvia
+TC Ferreira	Federal University of Minas Gerais (UFMG)
+TD Singh	Post Doctoral Researcher
+T Dwojak	Applica.AI
+T Kajiwara	Assistant Professor, Ehime University
+T Kocmi	Senior Researcher, Microsoft
+T Lavergne	Associate Professor of Computer Science, LIMSI-CNRS
+T Nakazawa	The University of Tokyo
+TN Le	Ph.D. in Cognitive Computer Science, Université du Québec à Montréal, Canada
+T Pasini	NLP Research Scientist
+TS Juzek	Kauz Linguistic Technologies
+T Tang	Renmin University of China
+T Vaidhya	Indian Institute of Technology Kharagpur
+T Vu	Amazon Alexa AI
+T Zhao	Binjiang Institute of Zhejiang University, Research Scientist & Director of Om AI Lab.
+U Germann	School of Informatics, University of Edinburgh
+VCD Hoang	Applied Scientist at Oracle
+V Gupta	Graduate Student, School of Computing, University of Utah
+V Hangya	Ludwig Maximilian University of Munich
+V Malykh	Kazan Federal University
+VM Sánchez-Cartagena	Assistant professor, Universitat d'Alacant
+V Papavassiliou	Institute for Language and Speech Processing
+V Zouhar	ETH Zürich, Charles University, Saarland University
+W Aziz	University of Amsterdam
+W Lane	Harvard University, MSPRL Director (Mass Spectrometry & Proteomics Resource Lab)
+W Luo	Alibaba
+X Chen	Huawei Technologies Co.，Ltd.
+X Gao	Research Assistant Professor, University of Pittsburgh
+X Liu	Assistant Professor of Computer Science, Harbin Institute of Technology (Shenzhen)
+X Lu	University of Washington
+X Ren	Assistant Professor of Computer Science, Viterbi Early Career Chair, USC
+X Tannier	Sorbonne Université, INSERM, LIMICS
+X Wang	Researcher,  National Institute of Information and Communications Technology (Kyoto, Japan)
+X Yu	University of Washington
+Y Arase	Osaka University
+Y Bizzoni	Göteborg Universität
+Y Chen	Saarland University
+YF Hassan	Professor of Computer Science - Alexandria University- Pharos University
+YJ Kim	Microsoft (Machine Translation Group), Georgia Tech. (CSE)
+Y Kant	University of Toronto
+Y Kim	Postech
+Y Moslem	ADAPT Centre, Dublin City University
+Y Pruksachatkun	New York University
+Y Scherrer	Department of Digital Humanities, University of Helsinki
+Y Wu	Huawei Noah's Ark Lab
+Y Zhang	Westlake University
+Z Chen	Renmin University of China
+ZG Yang	Pázmány Péter Catholic University
+Z Hu	Assistant Professor at UC San Diego
+Z Jiang	Johns Hopkins University
+Z Jin	Max Planck Institute & ETH Zürich
+Z Li	Engineer, 2012 Lab, Huawei Co. LTD
+Z Li	Shanghai Jiao Tong University
+Z Tan	Tsinghua University
+Z Wu	Engineer, 2012 Lab, Huawei Co. LTD
+Z Yang	Tsinghua University
+Z Yang	Carnegie Mellon University
+ZY Dou	University of California, Los Angeles
+Z Yu	Engineer, 2012 Lab, Huawei Co. LTD

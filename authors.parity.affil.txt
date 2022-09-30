@@ -1,0 +1,328 @@
+A Anastasopoulos	Assistant Professor, George Mason University
+A Bapna	Software Engineer, Google Brain
+A Berard	Naver Labs Europe
+A Birch	University of Edinburgh
+A Conneau	FAIR / Meta AI
+A Currey	Amazon Web Services
+A de Gispert	Principal Scientist (Amazon)
+AFT Martins	Carnegie Mellon University and Instituto Superior Tecnico
+A Garg	UC Davis, IIT Delhi
+AL Jakobsen	Professor of translation & translation technology, CBS
+AM Cretu	Imperial College London
+A Pym	Professor of Translation and Intercultural Studies, Universitat Rovira i Virgili
+A Severyn	Google
+A Sinitsin	Yandex
+A Toral	Assistant Professor, University of Groningen
+A Trewartha	Postdoctoral Researcher, Lawrence Berkeley National Laboratory
+AV Lopes	Unbabel/INESC-ID
+AVM Barone	the University of Edinburgh
+A Wang	PhD student at New York University
+A Way	ADAPT Centre, Dublin City University
+A Yuan	Stanford University
+B Byrne	Professor in Information Engineering, Cambridge University
+B Chen	Alibaba Group
+B Haddow	University of Edinburgh
+B Ji	Tencent
+B Li	Alibaba
+B Li	Northeastern University（China）
+B Thompson	Amazon
+B Wu	Meta Reality Labs, UC Berkeley
+B Yang	Alibaba DAMO Academy
+C Federmann	Principal Research Manager, Microsoft Translator
+C Meister	ETH Zürich
+C Shao	Institute of Computing Technology, Chinese Academy of Sciences
+C Wang	6Estates
+C Xu	Northeastern University
+CX Zhai	University of Illinois at Urbana-Champaign
+C Zong	Institute of Automation, Chinese Academy of Sciences
+D Cer	Research Scientist, Google Research
+D Emelin	PhD Student, ILCC, School of Informatics, The University of Edinburgh
+DF Wong	Associate Professor, Department of Computer and Information Science, University of Macau
+D Grangier	Google Brain
+D He	Peking University
+D Lewis	Trinity College Dublin, Universtiy College London
+D Macháček	Charles University
+D Tao	The University of Sydney
+D Wu	Microsoft
+D Xiong	Professor, College of Intelligence and Computing, Tianjin University, China
+D Yogatama	DeepMind
+D Zhang	Microsoft Research Asia
+E Agirre	Full Professor, Director HiTZ, IXA, University of the Basque Country, Assoc. Researcher (sherpa.ai)
+EA Olivetti	Massachusetts Institute of Technology
+E Blanco	Unviersity of Arizona
+E Cambria	Associate Professor, NTU Singapore
+E Chatzikoumi	Universidad de las Américas
+E Chen	University of Science and Technology of China
+E Grave	Research Scientist, Facebook
+E Voita	University of Edinburgh
+F Alves	Universidade Federal de Minas Gerais
+F Gao	Bytedance
+F Guzmán	Research Scientist - Facebook AI
+F Meng	WeChat AI, Tencent
+FM Federici	Professor of Intercultural Crisis Communication, University College London
+F Stahlberg	Google Research
+F Tian	Facebook
+F Wang	University of Southern California
+F Wu	Professor of Computer Science, Zhejiang University
+G Foster	Research Scientist, Google Inc.
+GH Abrego	Google
+G Haffari	Professor, DSAI Dept, Monash University
+G Labaka	HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+G Lample	Research Scientist, Facebook AI Research
+G Wenzek	Facebook
+G Zhou	Soochow University, China
+H Chi	qingdao
+H Gong	Facebook AI Research
+H Guo	Chinese University of Hong Kong
+H Hassan	Microsoft Research
+H Huo	Department of Material Science and Engineering, University of California at Berkeley
+H Liu	Peking University
+H Peng	University of Washington
+H Peng	Alibaba Group
+HR Wei	Alibaba DAMO Academy
+H Schwenk	Research scientist, Facebook, and professor of Computer Science
+H Strobelt	IBM Research / MIT-IBM Watson AI Lab
+H Sun	Peking University
+HT Madabushi	Lecturer (Assistant Professor) in Artificial Intelligence, University of Bath
+H Wu	Baidu NLP
+H Xiong	Alibaba
+H Xu	Computer Science, Fudan University
+H Yu	Staff Engineer, Alibaba DAMO Academy
+I Calapodescu	Senior Scientist, Naver Labs Europe
+I Chung	Texas A&M University
+I King	The Chinese University of Hong Kong
+I Temnikova	"Big Data for Smart Society" Institute, GATE
+I Titov	University of Edinburgh / University of Amsterdam
+J Cross	Edith Cowan University
+J Gu	Apple AI/ML (MLR)
+J Guo	Microsoft Research Asia
+J Hao	Amazon, Alexa AI
+J Helcl	Charles University
+J Hula	University of Ostrava
+J Ive	Queen Mary University of London
+J Kasai	University of Washington
+J Kreutzer	Research Scientist at Google Research, Montreal
+J Lai	Sun Yat-sen University
+J Li	Shannon.AI, Zhejiang University, Stanford University
+J Li	tulane
+JM Crego	Head of Research at SYSTRAN
+J Moorkens	Associate Professor, Dublin City University
+JM Zhang	Lecturer (Assistant Professor), King's College London
+J Pino	Meta
+J Senellart	Quandela
+J Sharma	Postdoc Researcher, University of Agder
+J Shen	DeepMind
+J Tao	National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+J Tomek	Oxford university
+J van Soest	Maastricht University
+J Wang	Alibaba
+J Xie	Alibaba
+J Yi	Institute of Automation, Chinese Academy of Sciences
+J Zhang	Institute of Automation Chinese Academy of Sciences
+J Zhang	Florida State University
+K Cho	New York University, Genentech
+K Duh	Johns Hopkins University
+K Fan	Unknown affiliation
+K Heafield	Reader, University of Edinburgh
+K Hu	Google NYC
+K Hu	Dublin City University
+K Rysová	Charles University
+K Song	Microsoft
+L Barrault	Research Scientist, Meta AI
+L Bentivogli	Researcher at Fondazione Bruno Kessler, Italy
+L Ding	Inphi
+L He	Principal Scientist Manager, Microsoft
+Ł Kaiser	OpenAI & CNRS
+L Li	University of Western Ontario
+LN Vieira	University of Bristol
+L Poláková	Charles University in Prague
+LS Chao	Unknown affiliation
+L Si	Alibaba Group Inc, Purdue Univ, Carnegie Mellon Univ
+L Specia	Professor, Imperial College London and University of Sheffield
+L Wang	Tencent AI Lab
+L Wu	Microsoft Research
+L Yankovskaya	University of Tartu
+L Zhang	Soochow University
+MA Di Gangi	Speech Scientist @ AppTek GmbH
+MA Farajian	Unbabel
+M Agarwal	Senior Research Engineer, IBM Research
+M Artetxe	Facebook AI Research
+M Auli	Facebook AI Research
+M Behrisch	Assistant Professor of Computer Science, Utrecht University, Netherlands
+M Carpuat	Associate Professor, Computer Science, University of Maryland
+M Cettolo	Researcher at Fondazione Bruno Kessler, Trento (Italy)
+M Di Gangi	Speech Scientist @ AppTek GmbH
+M Eric	Senior Machine Learning Scientist @ Amazon Alexa AI
+M Federico	AWS AI Labs
+M Fomicheva	University of Sheffield, Department of Computer Science
+M Freitag	Google
+M Ghazvininejad	Research Scientist, FAIR (Facebook AI Research)
+M Gooding	Mirada Medical
+M Guo	Google Research
+M Harman	Research Scientist at Facebook & Professor of Software Engineering at UCL
+M Johnson	Researcher, Google
+MJ Smith	Scientific Technologies Limited
+M Junczys-Dowmunt	Microsoft
+M Le	Facebook AI Research
+M Li	Tencent
+M Martindale	PhD Student, iSchool, University of Maryland
+MM Hossain	Graduate Research Assistant, University of North Texas
+M Negri	Fondazione Bruno Kessler - FBK-irst, Trento, Italy
+M Norouzi	Google Brain
+M Olohan	University of Manchester
+M Ott	Character AI
+M Papadakis	Senior Research Scientist, University of Luxembourg
+M Popel	Institute of Formal and Applied Linguistics, Charles University in Prague
+M Popović	ADAPT Centre @ Dublin City University
+M Post	Microsoft Translator
+MQ Pham	Zoom Video Communications
+MR Costa-Jussa	Universitat Politècnica de Catalunya
+MR Lyu	Professor of Computer Science & Engineering, The Chinese University of Hong Kong
+M Rysová	Charles University
+M Sun	Professor of Computer Science and Technology, Tsinghua University
+M Tomkova	PostDoc, University of California, Davis
+M Turchi	Zoom Video Communications
+M Volk	Professor of Computational Linguistics, University of Zurich
+M Wang	ByteDance AI Lab
+M Zhang	Professor of Computer Science, Soochow University
+M Zhang	IT University of Copenhagen
+M Zhou	Chief Scientist at Sinovation, ACL president (2019), VP of CCF(2020-2024)
+N Aldarrab	USC Information Sciences Institute
+N Arivazhagan	Google Research
+N Bogoychev	Postdoc at University of Edinburgh
+N Matteo	Fondazione Bruno Kessler - FBK-irst, Trento, Italy
+N Pappas	Amazon Web Services (AWS AI)
+N Pourdamghani	Applied Scientist, Amazon AWS
+O Bojar	Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+OC Granmo	Professor University of Agder
+O Firat	Google AI
+OM Camburu	Early Career Research Fellow, University College London
+PA Alessio	Fondazione Bruno Kessler
+PA Andersen	Associate Professor at University of Agder
+P He	Assistant Professor, The Chinese University of Hong Kong, Shenzhen
+PJ Chen	Facebook
+P Jwalapuram	PhD Student, Nanyang Technological University
+P Koehn	Professor, Johns Hopkins University
+P Madhyastha	City, University of London & Imperial College London
+P Michel	Post-doc, Center for Data Science/LSCP, École Normale Supérieure
+P Milin	Professor, The University of Birmingham, UK
+P Nakov	MBZUAI
+P Xia	Johns Hopkins University
+P Zhang	Damo Academy, Alibaba
+Q Fan	Unknown affiliation
+Q Liu	PhD candidate @ USC
+Q Shen	Machine Learning Research Group @ Oracle Labs
+QV Le	Research Scientist, Google Brain
+Q Zhang	Professor of Computer Science, Fudan University
+R Aharoni	Google Research
+R Bawden	Inria
+R Cattoni	Fondazione Bruno Kessler, Trento (Italy)
+R Chatterjee	Apple Inc
+R Coto-Solano	Department of Linguistics, Dartmouth College
+R Cotterell	ETH Zürich
+R Gabriel	Amazon
+R Grundkiewicz	Microsoft Research
+R Pang	Apple AI/ML
+R Pappagari	The Johns Hopkins University
+R Sennrich	University of Zurich
+RT McCoy	Postdoc in the Department of Computer Science, Princeton University
+R Weng	Alibaba DAMO Academy
+SB Cohen	University of Edinburgh
+S Castilho	ADAPT Centre - Dublin City University
+S Edunov	Facebook AI Research
+S Eger	Stand-in Professor, Bielefeld University
+S Gehrmann	Senior Research Scientist, Google Research
+S Gelly	Google Brain Zurich
+S Gu	CAS/ICT
+S Gupta	Graduation from IIT Bombay CSE
+S He	Microsoft Research Asia
+S Huang	Department of Computer Science and Technology, Nanjing University
+S Jean	AWS AI Labs
+S Joty	Research Director at Salesforce AI Research, Associate Professor at NTU (on leave)
+S Läubli	Zurich University of Applied Sciences
+S Liu	Microsoft Research Asia
+S Ma	Microsoft Research Asia
+S Ma	Professor at Beihang University, Beijing, China
+SM Lakew	Applied Scientist, Amazon AI
+S O'Brien	Dublin City University
+S Ren	Microsoft Research Asia
+S Riezler	Professor for Statistical Natural Language Processing, Heidelberg University
+SR Indurthi	Zoom AI Lab, Singapore
+S Sabour	Brain, Google
+S Schamoni	Research Associate, Heidelberg University
+S Semeniuta	Samsung AI Center Moscow
+S Shi	Tencent AI Lab
+S Sun	Johns Hopkins University
+S Wang	Tsinghua University
+S Yuan	Google
+S Zhao	Microsoft
+T Gui	复旦大学
+T He	University of California, Berkeley
+T He	Microsoft Research Asia
+TH Trinh	Google, New York University
+TK Lam	PhD student, Heidelberg University
+T Kocmi	Senior Researcher, Microsoft
+TLE Tang	Siemens
+T Marco	Zoom Video Communications
+T Musil	Charles University, Prague
+T Nguyen	AWS
+TN Sainath	Principal Research Scientist, Google
+T Ord	Future of Humanity Institute, University of Oxford
+T Qin	Senior Principal Research Manager, Microsoft Research Asia
+T Sara	Head of Research Unit, Fondazione Bruno Kessler
+T Shen	University of Washington
+T Xiao	Professor in Computer Science, Northeastern University (CN)
+TY Liu	Distinguished Scientist, Microsoft Research | IEEE Fellow | ACM Fellow | AAIA Fellow
+T Zhang	HKUST
+V Chaudhary	Microsoft Turing
+V Kocijan	University of Oxford
+VOK Li	The University of Hong Kong
+W Chan	Google Brain
+W Chen	Tsinghua University, Bytedance
+W Jiao	Computer Science & Engineering, The Chinese University of Hong Kong
+W Luo	Alibaba
+W Wu	The Chinese University of Hong Kong
+W Wu	Master Candidate of Computer Science, Peking University
+W Xie	Beijing Language and Culture University
+W Zhang	Smart Platform Product Department of Tencent Inc.
+W Zhao	Heidelberg Institute for Theoretical Studies, Heidelberg University
+X He	Monash University
+X Li	Meta AI
+X Liu	Assistant Professor of Computer Science, Harbin Institute of Technology (Shenzhen)
+X Niu	Amazon AI
+X Tan	Soochow University
+X Tan	Principal Research Manager, Microsoft Research Asia
+X Wang	Tencent AI Lab
+X Wang	Fudan University
+X Wei	Alibaba Group
+X Zheng	Tencent AI Lab
+X Zhou	Master of computer science, Fudan University
+Y Belinkov	Technion
+Y Fan	University of Science and Technology of China
+Y Feng	Professor of Institute of Computing Technology, Chinese Academy of Sciences
+Y Graham	Assistant Professor, Trinity College Dublin
+Y Li	Northeastern University
+Y Liu	Professor of Computer Science, Tsinghua University
+Y Liu	Amazon
+Y Sung	Research Scientist, Google
+Y Vyas	Amazon AI
+Y Wan	NLP2CT Lab, University of Macau
+Y Wang	NLP Reseacher, Unisound
+Y Wang	Microsoft Research
+Y Xia	Microsoft Research Asia
+Y Yang	Apple AI/ML
+Y Yordanov	DPhil Student in Computer Science at the University of Oxford
+Y Zhang	Research Scientist, ByteDance
+Y Zhang	Research Scientist @ Apple MLR
+Y Zou	Fudan University
+Z He	Researcher of Natural Language Processing, Baidu
+Z Li	Imperial College London
+Z Lin	ByteDance AI Lab
+Z Su	Professor of Computer Science, ETH Zurich
+Z Sun	Zhongguancun Laboratory
+Z Tan	Tsinghua University
+Z Tu	Principal Researcher, Tencent AI Lab
+Z Yang	Tsinghua University
+ZY Dou	University of California, Los Angeles
+Z Zhang	Tencent AI Lab
+Z Zheng	ByteDance AI Lab

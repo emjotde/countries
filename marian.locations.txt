@@ -1,0 +1,340 @@
+4i
+Adam Mickiewicz University
+ADAPT Centre @ Dublin City University
+ADAPT Centre, Dublin City University
+ADAPT Centre, Munster Technological University, Ireland
+ADAPT Centre, NCLT, School of Computing, Dublin City University
+Adjunct Professor at Faculty of E&CE, Unicamp, CTO @ NeuralMind
+Adjunct Professor, Universitat Oberta de Catalunya
+AI Researcher
+AI Scientist, Silo.AI
+AI Sweden
+Alan Turing Institute
+Alibaba
+Alibaba DAMO, Tencent, CMU, CUHK
+Alibaba Group Inc, Purdue Univ, Carnegie Mellon Univ
+Allen Institute for Artificial Intelligence
+Amazon
+Amazon Alexa AI
+Amazon AWS AI
+Apple Inc
+Applica.AI
+Applied Data Scientist at Microsoft
+Applied Scientist at Oracle
+AppTek
+Assistant Professor at UC San Diego
+Assistant Professor at Universidad Politécnica de Madrid
+Assistant Professor, AUMC, University of Amsterdam
+Assistant Professor Computer Science Engineering, Chandigarh University
+Assistant Professor, Ehime University
+Assistant Professor, George Mason University
+Assistant Professor of Computer Science, Faculty of Science, Alexandria University
+Assistant Professor of Computer Science, Harbin Institute of Technology (Shenzhen)
+Assistant Professor of Computer Science, Viterbi Early Career Chair, USC
+Assistant Professor, Penn State University
+Assistant professor, TU Delft
+Assistant professor, Universitat d'Alacant
+Assistant Professor, University of Groningen
+Assistant Professor, University of Illinois at Urbana-Champaign
+Assistant Professor, University of Texas at Dallas
+Associate Professor, Department of Computer and Information Science, University of Macau
+Associate Professor, Dept. of Software and Computing Systems, Universitat d'Alacant (Spain)
+Associate Professor, Dublin City University
+Associate Professor, Information Sciences & Technology, George Mason University
+Associate Professor, IT University of Copenhagen/Uppsala University
+Associate Professor, Ludwig-Maximilians-Universität München
+Associate Professor of Computer Science, LIMSI-CNRS
+Associate Professor of Computer Science, Shanghai Jiao Tong University
+Associate Professor, University of Le Mans
+AWS AI
+Bielefeld University of Applied Sciences
+Binjiang Institute of Zhejiang University, Research Scientist & Director of Om AI Lab.
+Boston University
+Brno University of Technology
+Broadcom
+Cardiff University
+Carnegie Mellon University
+Carnegie Mellon University and Instituto Superior Tecnico
+Carnegie Mellon University; FACEBOOK
+Center for Information and Language Processing, University of Munich (LMU)
+CEO at Prompsit Language Engineering, computational linguist
+Character AI
+Charles University
+Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+Charles University, Prague, Czech Republic
+Cholistan Institute of Desert Studies, the Islamia University of Bahawalpur, Pakistan
+CNRS
+Columbia University
+Computational linguist, Charles University
+Computer Science Department, Stanford University
+Constantine the Philosopher University in Nitra
+DAMO Academy, Alibaba Group Singapore R&D (阿里巴巴达摩院新加坡研发中心)
+Dasa Klocokova
+Data and Applied Scientist, Microsoft India
+Dataminr
+Data Scientist - Arthur D. Little
+DCU
+DCU, Dublin
+Department of Computational Linguistics, University of Zurich
+Department of Computing, University of Turku
+Department of Digital Humanities, University of Helsinki
+Deputy Director of HiTZ, IXA Research Group, Associate professor, University of the Basque Country
+DiDi Labs
+Director and Professor of Computer Science and Engineering, NIT Silchar
+Doctoral Researcher, TU Kaiserslautern
+Doctoral Researcher, University of Helsinki
+Doctoral student
+Dublin City University
+Engineer, 2012 Lab, Huawei Co. LTD
+ETH Zürich, Charles University, Saarland University
+European Commission, Directorate-General for Translation
+Facebook AI Research
+Facebook AI Research, LORIA
+Federal University of Minas Gerais (UFMG)
+Fondazione Bruno Kessler - FBK-irst, Trento, Italy
+Fondazione Bruno Kessler (FBK) / University of Trento
+George Mason University
+Georgia Tech and Facebook AI Research
+Georgia Tech, Facebook AI Research
+German Federal Institute for Risk Assessment
+Google
+Göteborg Universität
+Graduate Student, Department of Computer Science, Columbia University
+Graduate Student, School of Computing, University of Utah
+Grammarly
+Harbin Institute of Technolgy (Shenzhen)
+Harvard University, MSPRL Director (Mass Spectrometry & Proteomics Resource Lab)
+Head of Research at SYSTRAN
+HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+Huawei Noah's Ark Lab
+Huawei Technologies Co.，Ltd.
+IBM AI research, Hebrew University of Jerusalem
+IBM Research
+Imperial College London
+Indian Institute of Technology Kharagpur
+Inria
+Inria Lille
+Institute for Language and Speech Processing
+Institute of Computing, University of Campinas
+Institute of Formal and Applied Linguistics, Charles University in Prague
+Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University
+Institute of Surface Science and Corrosion,  WW4-LKO, University of Erlangen-Nuremberg
+Instituto de Telecomunicações
+Jagiellonian University, applica.ai
+JD AI Research
+Johns Hopkins University
+Jönköping University, Sweden
+KACST
+Katedra informatiky Univerzita Konštantína Filozofa v Nitre
+Kaunas University of Technology
+Kauz Linguistic Technologies
+Kazan Federal University
+Lecturer and researcher, Universitat d'Alacant, Spain
+LIRIS - Université Claude Bernard Lyon 1
+Ludwig Maximilian University of Munich
+Machine Learning Scientist at 3M
+Machine Translation Scientist, Apptek
+Makerere University
+Maulana Azad National Urdu University (A Central University), Hyderabad
+Max Planck Institute & ETH Zürich
+Max Planck Institute for Intelligent Systems Tübingen & University of Cambridge
+Median Technologies
+Meta AI
+Microsoft
+Microsoft (Machine Translation Group), Georgia Tech. (CSE)
+Microsoft Research
+Microsoft Translator
+Mila, Concordia University
+ML Scientist, Apple Inc.
+Monash University
+M.S. in Computer Science, PUC-Rio | aiXplain
+MS in Computing ( Research area - Machine Translation)
+Nanyang Technological University
+Nanyang Technological University, Alibaba Group DAMO Academy
+National Center for Biotechnology Information, National Library of Medicine, National Institutes of
+National Institute of Information and Communications Technology (NICT)
+National Institute of Technology Silchar India
+National Research Council Canada (NRC)
+National University of Ireland
+National University of Singapore
+Naval Air Warfare Center Weapons Division
+NCBI-NLM, National Institutes of Health
+New York University
+NICT
+NICT, Japan
+NICT (National Institute of Information and Communications Technology)
+NLP Research Scientist
+Noah's Ark Lab, Huawei
+NVIDIA, previously Samsung R&D Poland
+OpenAI
+Oracle
+Osaka University
+Pázmány Péter Catholic University
+Peking University; Carnegie Mellon University; Amazon
+PhD at University of Amsterdam and The University of Edinburgh
+Ph.D. Candidate at The University of Texas at Austin
+PhD candidate Language Technology, University of Helsinki
+PhD Candidate, University of Virginia
+Ph.D. in Cognitive Computer Science, Université du Québec à Montréal, Canada
+PhD researcher at TU Delft
+PhD Student, Aalto University
+PhD student, Hebrew University of Jerusalem
+PhD Student, ILCC, School of Informatics, The University of Edinburgh
+Ph.D. Student in Computer Science at RWTH Aachen
+PhD student, Leiden University
+PhD student — Mila / University of Montreal
+Phd student of CS, Renmin University of China
+PhD Student / Researcher, Brno University of Technology
+PhD student, Saarland University
+PhD Student, Stanford University
+Ph.D. student, Universite de Montreal, Renmin University of China
+PhD student, University of Edinburgh
+PhD student, University of Groningen
+Polish-Japanese Institute of Information Technology
+Pontifical Catholic University of Rio Grande do Sul
+Postdoc at University of Edinburgh
+post-doc, Charles University, Prague
+postdoc in computational linguistics, Uppsala University
+Postdoc in the MaCoCu project, University of Groningen
+Post Doctoral Researcher
+Postdoctoral Researcher at The University of Tokyo
+Postdoctoral researcher in Insight Centre for Data Analytics / Data Science Institute
+Postdoctoral Researcher, University of Groningen
+Postdoc, University of Zurich
+Postech
+Postgraduate Student
+Principal Researcher and Research Fellow, DFKI GmbH
+Principal Research Manager, Microsoft Translator
+Principal Scientist at Amazon Alexa
+Professor, Charles Darwin University
+Professor, College of Intelligence and Computing, Tianjin University, China
+Professor, DSAI Dept, Monash University
+Professor, Imperial College London and University of Sheffield
+Professor in Speech and Language Processing, Aalto University, Finland
+Professor, Johns Hopkins University
+Professor of Computational Semantics, University of Groningen
+Professor of Computer Languages and Systems, Universitat d'Alacant
+Professor of Computer Science - Alexandria University- Pharos University
+Professor of Computer Science and Director, Data Science Institute, Columbia University
+Professor of Computer Science and Technology, Tsinghua University
+Professor of Computer Science, PRHLT, Polytechnic University of Valencia
+Professor of Language Technology, University of Helsinki
+Prompsit Language Engineering
+Quandela
+Reader, University of Edinburgh
+Renmin University of China
+research assistant, Charles University, Institute of Formal and Applied Linguistics
+Research Assistant Professor, University of Pittsburgh
+Research Associate, National Research Council Canada
+Research Computer Scientist, Air Force Research Laboratory; D. Eng. Student Johns Hopkins University
+Research Director at Salesforce AI Research, Associate Professor at NTU (on leave)
+Research Engineer, University of Amsterdam
+Researcher at Institute for Language and Speech Processing (ILSP / "Athena" R.C.)
+Researcher at Microsoft
+Researcher at Uppsala University
+Researcher at Vicomtech & University of the Basque Country
+Researcher, Faculty of Humanities and Social Sciences, University of Zagreb
+Researcher, Fraunhofer Institute FOKUS
+Researcher, Latvian University and Tilde
+Researcher, Microsoft Research
+Researcher,  National Institute of Information and Communications Technology (Kyoto, Japan)
+Researcher, NCBI/NLM/NIH
+Researcher, Research Institutes of Sweden
+Research Scholar
+Research Scientist, Google
+Research Scientist, Google Zürich
+Research Scientist, Meta AI
+Research Scientist@Rakuten
+Research Scientist, Rakuten Institute of Technology
+RWTH Aachen University
+Saarland University
+Saarland University, Saarland Informatics Campus
+SAP SE
+School of Biomedical Informatics, UTHealth
+School of Computing, National College of Ireland
+School of Computing Technologies, RMIT University
+School of Informatics, University of Edinburgh
+Senior Lecturer, Centre for Translation Studies, University of Surrey
+Senior Research Associate, University of Cambridge & PolyAI
+Senior Researcher in Speech Technologies, Vicomtech
+Senior Researcher, Microsoft
+Senior Researcher, Microsoft Semantic Machines
+Senior Researcher, National Institute of Information and Communications Technology (NICT), Japan
+Senior Researcher, RISE; Professor of Computational Linguistics, Uppsala University
+Senior Research Scientist at AYLIEN
+Senior Research Scientist, IBM Research Lab
+Senior University Lecturer in Computer Science, Aalto University
+Shanghai Jiao Tong University
+Singapore R&D Centre, Alibaba Inc.
+Snowflake
+Soochow University; Microsoft
+Sorbonne Université, INSERM, LIMICS
+SRPOL
+Staff Engineer, Alibaba DAMO Academy
+Staff Engineer at DAMO Academy, Alibaba Group
+Staff Research Scientist, DiDi AI Labs
+Staff Research Scientist, Noah's Ark Lab, Huawei Technologies
+Stanford University
+St. Anthony's College, Shillong
+State University of Campinas
+Student, Dartmouth College
+Student, IIT Guwahati
+Student, University of Edinburgh
+Tencent
+the University of Edinburgh
+The University of Edinburgh
+The University of Texas at Austin
+The University of Tokyo
+Tilburg University
+Tilde
+Tilde, University of Latvia
+TRT
+Tsinghua University
+TÜBİTAK
+TU Delft
+UC Berkeley
+Unbabel
+Unbabel/INESC-ID
+Undergraduate Student, IIT Guwahati
+Unicamp
+UNICAMP
+Universidad de La Serena
+Universidade da Coruña, CITIC
+Universidad Politécnica de Madrid
+Universität des Saarlandes, Nanyang Technological University
+Universitat Oberta de Catalunya
+Universitat Politècnica de Catalunya
+Université du Québec à Montréal (UQAM)
+Université Paris-Saclay, CNRS, LISN
+University of Amsterdam
+University of California, Los Angeles
+University of Cambridge
+University of Eastern Finland
+University of Edinburgh
+University of Edinburgh / University of Amsterdam
+University of Edinburgh / University of Cambridge
+University of Galway
+University of Gothenburg
+University of Groningen
+University of Lisbon
+University of Lisbon, Faculty of Sciences, Department of Informatics
+University of Michigan, Ann Arbor
+University of Milano-Bicocca
+University of New South Wales
+University of North Carolina Chapel Hill
+University of Southern California
+University of Texas at Austin
+University of the Basque Country
+University of Toronto
+University of Turku
+University of Washington
+University of Zaragoza
+University of Zurich
+Univerzita Karlova v Praze, Matematicko-fyzikální fakulta, Ústav formální a aplikované lingvistiky
+Unknown affiliation
+Utrecht University
+Westlake University
+Wikimedia Foundation, Swathanthra Malayalam Computing
+Wołk.AI
+Zoom Video Communications
+腾讯（北京）
